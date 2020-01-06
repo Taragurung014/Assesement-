@@ -1,0 +1,8 @@
+<suite name="GitHub" verbose="1" >
+    <test name="ProQuest Test" >
+        <classes>
+            <class name="ProQuest" />
+        </classes>
+    </test>
+
+</suite>
